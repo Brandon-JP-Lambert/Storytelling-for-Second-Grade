@@ -13,12 +13,12 @@ This repository offers a set of distinct, structured prompts, each intended to g
 3. **Narratives**: These prompts transform the information from the paragraphs into narratives, complete with a beginning, middle, and end. This helps introduce students to the basic structure of storytelling while still incorporating factual information.
 
 ## Prompts
-``
+```
 1. Write a list of 5 short informative paragraphs in the style of 2nd graders. Vary the structure.
 2. Write versions of each that use metaphor or other poetic strategies written in the voice of second graders. Use appropriate vocabulary and sentence structures used by this level.
 3. For each, turn the paragraph into a narrative with a beginning, middle, and end written in the voice of second graders. Use appropriate vocabulary and sentence structures used by this level. Include the facts, but also a plot.
 4. Turn these into templates.
-``
+```
 
 ## Usage
 
